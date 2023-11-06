@@ -1,0 +1,89 @@
+
+body{
+  margin: 0px;
+}
+
+.logo-nm {
+  width: 14%;
+  height: auto;
+}
+/* Estilo para a barra de navegação (container-navbar) */
+.container-navbar {
+  background-color: #975959; /* Cor de fundo da barra de navegação */
+  /*float: left;*/
+  width: 100%;
+  padding: 10px; /* Espaçamento interno para os elementos da barra de navegação */
+  /*display: flex;  Torna os itens da barra de navegação flexíveis (alinhados horizontalmente) */
+  justify-content: space-between; /* Distribui os itens horizontalmente */
+  align-items: center; /* Centraliza verticalmente os itens na barra de navegação */
+}
+
+.container-navbar ul {
+  background-color: #975959; /* Cor de fundo da barra de navegação */
+  list-style-type: none; /* Remove marcadores de lista */
+  margin: 0; /* Remove margens padrão da lista */
+  padding: 0; /* Remove preenchimento padrão da lista */
+   margin-left: 80%; 
+}
+
+.container-navbar li {
+  display: inline; /* Faz com que os itens da lista apareçam lado a lado */
+  align-content: center;
+  font-size: medium;
+  justify-content: space-between; /* Distribui os itens horizontalmente */
+  margin-right: 20px; /* Espaçamento entre os itens */
+  
+}
+
+.container-navbar a {
+  text-decoration: none; /* Remove sublinhado dos links */
+  color: #fff; /* Cor do texto dos links */
+}
+
+
+/* Estilo para a barra lateral (conteiner-sidebar) */
+.conteiner-sidebar {
+  background-color: #555; /* Cor de fundo da barra lateral */
+  width: 15%; /* Largura da barra lateral */
+  height: 100% ; /* Ocupa a altura disponível menos o espaço da barra de navegação */
+  position: fixed; /*Faz com que a barra lateral fique fixa à esquerda */
+ 
+}
+
+.conteiner-sidebar ul {
+  list-style-type: none; /* Remove marcadores de lista */
+  margin: 0; /* Remove margens padrão da lista */
+  padding: 0; /* Remove preenchimento padrão da lista */
+}
+
+.conteiner-sidebar li {
+  margin-bottom: 10px; /* Espaçamento entre os itens da lista */
+  margin-left: 3%;
+}
+
+.conteiner-sidebar a {
+  text-decoration: none; /* Remove sublinhado dos links */
+  color: #fff; /* Cor do texto dos links */
+}
+
+
+/* Efeito de hover para os itens da barra de navegação */
+.container-navbar li:hover {
+  border-bottom: 3px solid #b83939; /* Define a largura da borda e a cor */
+  transition: border-bottom-color 0.5s; /* Adiciona uma transição suave para a cor */
+}
+
+
+/* Efeito de hover para os itens da barra lateral */
+.conteiner-sidebar li:hover {
+  background-color: #777; /* Cor de fundo quando o mouse passa por cima */
+  transition: background-color 0.5s; /* Adiciona uma transição suave */
+}
+
+.content_body{
+  padding-left: 16%;
+  height: 100%;
+
+}
+
+

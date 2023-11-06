@@ -1,0 +1,287 @@
+<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Rubricas</td><td>Cód.Evento</td><td>Valor</td><td>Nome</td><td>CPF</td><td>Matrícula</td><td>Cód.Orgão Evento</td><td>Cód.Consignatária</td><td>Cód.Orgão</td><td>Mês</td><td>Ano</td><td>Serviço</td><td>Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>581,76</td><td>CELENY ARAUJO REINALDO</td><td>48315222368</td><td>0000001023</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>545,66</td><td>DANNYNEIDE MARIA LOPES SILVA</td><td>76246230300</td><td>0000001444</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>164,05</td><td>DUCIVAL OLIVEIRA MARQUES</td><td>56384343304</td><td>0000007277</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>489,70</td><td>ELIZANGELA NUNES DOS SANTOS</td><td>87296136391</td><td>0000002751</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>167,71</td><td>EVA VIEIRA FERREIRA</td><td>45262098304</td><td>0000000711</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>162,61</td><td>FABRICIA NUNES FERREIRA DO NASCIMENTO</td><td>00549194363</td><td>0000004353</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>346,23</td><td>FERNANDO EDSON DE ABREU RAMOS</td><td>02420423330</td><td>0000008832</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>415,82</td><td>FRANCILEIDE SILVA REIS</td><td>00742518302</td><td>0000008935</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>463,05</td><td>FRANCILENE LIMA DE MELO</td><td>83057137334</td><td>0000002373</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>419,96</td><td>FRANCINETE DE OLIVEIRA DA COSTA VERAS</td><td>03773216300</td><td>0000008778</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>158,78</td><td>FRANCIOLEDA DO NASCIMENTO ARAUJO</td><td>63995905315</td><td>0000001180</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>171,62</td><td>FRANCISCO DAS CHAGAS CANDEIRA DA SILVA</td><td>74473395391</td><td>0000003914</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>393,00</td><td>FRANCISCO DAS CHAGAS CANDEIRA DA SILVA</td><td>74473395391</td><td>0000008845</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>144,96</td><td>FRANCISCO DE ASSIS OLIVEIRA SILVA</td><td>39835090106</td><td>0000005063</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>211,05</td><td>FRANCISCO LIMA RAMOS</td><td>40587118334</td><td>0000000822</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>203,46</td><td>FRANCISCO TADEU CASTELO BRANCO MARTINS</td><td>50475339304</td><td>0000001620</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>164,33</td><td>FRANCISMAR DE SOUZA COSTA</td><td>72587083320</td><td>0000009002</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>293,99</td><td>GARDENIA DE SOUSA GOMES</td><td>00764700324</td><td>0000005188</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>251,29</td><td>GESIEL SANTANA COSTA</td><td>02951263376</td><td>0000009295</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>161,95</td><td>GIVANILDO MARTINS DA SILVA</td><td>84688726368</td><td>0000003068</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>516,11</td><td>GLEYDILENE NASCIMENTO SILVA</td><td>80129099368</td><td>0000002816</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>427,21</td><td>GRACILENE DE SOUSA ALVES</td><td>01319592392</td><td>0000008877</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>544,99</td><td>GRACIONADIA ARAUJO</td><td>64580857372</td><td>0000002349</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>170,36</td><td>GUTHMAN CARVALHO SILVA</td><td>88907350310</td><td>0000009667</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>505,56</td><td>HERBETE ANTONIO LIMA DE SOUSA</td><td>56240872334</td><td>0000001553</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>274,24</td><td>HEROZILDA FORTES DE MENESES GOMES</td><td>08952671368</td><td>0000001373</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>320,45</td><td>IADYA LOPES FONTENELE</td><td>90499727304</td><td>0000002366</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>122,78</td><td>IANE COSTA ARAUJO</td><td>89320255334</td><td>0000000841</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>323,64</td><td>IANE COSTA ARAUJO</td><td>89320255334</td><td>0000004094</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>200,94</td><td>IRACEMA GOMES DO NASCIMENTO</td><td>35211792300</td><td>0000000542</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>284,67</td><td>IRANEIDE CUTRIM BOGEA ALMEIDA</td><td>44998163353</td><td>0000004126</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>410,00</td><td>IRENILDA NUNES COSTA DE CASTRO</td><td>46783792315</td><td>0000009096</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>168,24</td><td>ISABELE COSTA CARDOSO</td><td>60701108380</td><td>0000009672</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>340,85</td><td>ISAIAS LIMA GRACA</td><td>26948443320</td><td>0000003924</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>560,60</td><td>JANNE HERLEY GOMES LOBO</td><td>78564794349</td><td>0000003931</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>260,64</td><td>JEFFERSON SOARES DO MONTE OLIVEIRA</td><td>95505377300</td><td>0000008835</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>132,31</td><td>JEMESON MESQUITA BRITO</td><td>05955186301</td><td>0000008976</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>158,49</td><td>JEORDAN DOS SANTOS SIMOES</td><td>03828508316</td><td>0000009675</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>556,12</td><td>JERUSA VIEIRA ARAUJO</td><td>50550047387</td><td>0000000055</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>332,30</td><td>JOAO JOSE FURTADO NETO</td><td>50547720300</td><td>0000002384</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>336,67</td><td>JOAQUINA CARVALHO SOUSA</td><td>29272998387</td><td>0000000351</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>347,79</td><td>JORGE LUIZ ALVES DE CARVALHO</td><td>35122641315</td><td>0000005194</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>243,42</td><td>JOSE ALAM SOUSA BATISTA</td><td>66771404315</td><td>0000004337</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>154,24</td><td>JOSE NOGUEIRA VIEIRA FILHO</td><td>53104412391</td><td>0000001634</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>287,69</td><td>JOSE PEDRO SANTOS MARTINS JUNIOR</td><td>95116559300</td><td>0000004549</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>349,64</td><td>JOSICLEIA MENDES SOUZA BARROS</td><td>69830398315</td><td>0000001527</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>140,73</td><td>JOSILENE CAVALCANTE NEVES</td><td>03005900320</td><td>0000005169</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>209,59</td><td>JOSILENE LOPES SOARES</td><td>88061493349</td><td>0000001303</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>184,34</td><td>JUCELIA SANTOS DE AREIA</td><td>96471506368</td><td>0000008993</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>207,80</td><td>JULIO CESAR VIEIRA DE CASTRO</td><td>02173839390</td><td>0000004269</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>151,10</td><td>KECYA MARIA DE SOUSA SILVA</td><td>91460590325</td><td>0000002265</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>343,81</td><td>KLEITA ALMEIDA PINTO</td><td>68567170320</td><td>0000001485</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>321,78</td><td>LEILA MARIA FONTELES DE CARVALHO</td><td>65731867372</td><td>0000002330</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>141,28</td><td>LESSYANE LIMA LEAO</td><td>93111045315</td><td>0000004343</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>456,53</td><td>LINDALVA BARBOSA DA SILVA</td><td>84393238320</td><td>0000002338</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>430,17</td><td>LUCIA DE FATIMA LIMA DE ARAUJO</td><td>25492233300</td><td>0000002381</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>381,31</td><td>LUCIMEIRE BATISTA ALMEIDA</td><td>33112924304</td><td>0000001512</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>151,37</td><td>LUCINEUDA MARIA PEREIRA</td><td>81138032387</td><td>0000000489</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>191,27</td><td>LUIS GOMES NETO</td><td>97318043749</td><td>0000000539</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>339,37</td><td>LUSINETE FORTES TEIXEIRA MONTELES</td><td>27954501353</td><td>0000002369</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>198,98</td><td>MANOEL BEZERRA DE MELO</td><td>23749270325</td><td>0000001637</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>204,48</td><td>MANOEL FERREIRA LIMA</td><td>36473707387</td><td>0000000127</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>201,86</td><td>MANOEL FERREIRA PONTES FILHO</td><td>80318452391</td><td>0000004984</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>194,26</td><td>MARCELO GOMES ROCHA</td><td>00529794314</td><td>0000009008</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>189,36</td><td>MARCIA ADRIANA FRAZAO DA SILVA CASTELO BRANCO</td><td>61346730300</td><td>0000008965</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>393,47</td><td>MARCIA MARIA ANDRADE DA SILVA</td><td>55730396368</td><td>0000004001</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>165,45</td><td>MARCIO ANDRE MAGALHAES SOARES</td><td>61473316391</td><td>0000009701</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>514,49</td><td>MARGARETHE DE JESUS MELO RIBEIRO</td><td>71858920310</td><td>0000002823</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>297,04</td><td>MARIA ALICE CARDOZO CONCEICAO</td><td>67724671320</td><td>0000004544</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>372,88</td><td>MARIA CRISTINA PEREIRA DA SILVA</td><td>72365137334</td><td>0000001539</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>275,60</td><td>MARIA DAS DORES ARAUJO LIMA</td><td>23683325372</td><td>0000001279</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>333,11</td><td>MARIA DAS DORES SANDES PEREIRA</td><td>00391163361</td><td>0000005014</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>392,57</td><td>MARIA DAS GRACAS DA ROCHA OLIVEIRA DE ALMEIDA</td><td>43168116300</td><td>0000000683</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>161,95</td><td>MARIA DAS GRACAS PEREIRA DA SILVA</td><td>91747813320</td><td>0000003108</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>174,51</td><td>MARIA DO BOM PARTO LERES SOARES</td><td>92176216334</td><td>0000009704</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>203,53</td><td>MARIA DO NASCIMENTO VIEIRA DA COSTA</td><td>21608946304</td><td>0000001653</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>351,03</td><td>MARIA DO SOCORRO SILVA BARROS LIMA</td><td>39450082391</td><td>0000000852</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>156,81</td><td>MARIA EDINAIDE MUNIZ DE SOUSA</td><td>91977290353</td><td>0000002289</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>297,20</td><td>MARIA FLAVIA CARDIAL DE ARAUJO</td><td>96169176334</td><td>0000003857</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>301,83</td><td>MARIA FRANCISCA DE LIMA PAIVA</td><td>81058560344</td><td>0000004150</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>458,62</td><td>MARIA GRACIONETE MENESES DE OLIVEIRA</td><td>49958542315</td><td>0000001468</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>163,26</td><td>MARIA IZONEI DE MACHADO RODRIGUES</td><td>71220062391</td><td>0000000549</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>360,98</td><td>MARIA JOSE COSTA VIANA</td><td>87666022387</td><td>0000002768</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>372,72</td><td>MARIA JOSE DA CUNHA FREIRES</td><td>44999143372</td><td>0000002343</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>368,11</td><td>MARIA JOSE LOPES DOS SANTOS</td><td>83729372300</td><td>0000004066</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>166,63</td><td>MARIA LAUDILENE PEREIRA COELHO</td><td>02080097792</td><td>0000000654</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>518,57</td><td>MARIA LEUDA BATISTA PINHEIRO</td><td>68575599372</td><td>0000000728</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>171,60</td><td>MARIA MARQUES COSTA</td><td>35170166320</td><td>0000000612</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>202,92</td><td>MARIA RITA COSTA DE SOUSA</td><td>94094527320</td><td>0000004368</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>329,49</td><td>MARIA ROSIRENE MENDONCA DE ARAUJO</td><td>49956540382</td><td>0000000331</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>345,48</td><td>MARIA VIANA MARQUES</td><td>84403306349</td><td>0000002164</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>154,36</td><td>MARILENE SILVA</td><td>00160599300</td><td>0000004502</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>356,72</td><td>MARILIA DE ALMEIDA LIMA LOPES</td><td>60433784342</td><td>0000009711</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>168,55</td><td>MARONE SILVA LOURENCO</td><td>70879486368</td><td>0000003137</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>223,92</td><td>MAXSON SILVA PRACA</td><td>00419622306</td><td>0000004553</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>201,36</td><td>MIGUEL VITORINO DOS ANJOS NETO</td><td>71417095334</td><td>0000000316</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>145,45</td><td>NABBIA CRISTYANNE DE ARAUJO SOUSA</td><td>92177441315</td><td>0000004342</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>385,83</td><td>NAIREDE DOS SANTOS BARROS</td><td>38916088372</td><td>0000004507</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>248,03</td><td>NATANAEL SALES ROMAO</td><td>43202713353</td><td>0000004013</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>293,55</td><td>NATIANE COSTA CARDOSO DOS SANTOS</td><td>00969043309</td><td>0000005215</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>225,94</td><td>NEUREMBERK BARRETO DA SILVA</td><td>92616160382</td><td>0000003957</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>202,97</td><td>NEZILDO MARTINS DA COSTA</td><td>21569436304</td><td>0000000122</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>295,41</td><td>NILCEA GOMES MOURAO</td><td>48315176315</td><td>0000001175</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>230,99</td><td>NILREMA MATOS RODRIGUES ARAUJO</td><td>72047747368</td><td>0000004299</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>136,05</td><td>NOELMA ARAUJO VIANA LACERDA CORDEIRO</td><td>78708613320</td><td>0000004443</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>218,76</td><td>OBERDAN ALMEIDA COSTA</td><td>57088020300</td><td>0000005108</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>231,26</td><td>ORISVALDO DE FREITAS COSTA</td><td>64153924334</td><td>0000004360</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>342,96</td><td>QUEZIA ARAUJO PEREIRA CAVALCANTI</td><td>67772730349</td><td>0000004074</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>116,49</td><td>RAFAEL MAX DA COSTA LOPES</td><td>02982975319</td><td>0000009524</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>439,86</td><td>RAILDES SILVA AGUIAR</td><td>50550306315</td><td>0000001487</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>167,62</td><td>RAIMUNDA DO NASCIMENTO ARAUJO</td><td>25572431320</td><td>0000003143</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>378,73</td><td>RAIMUNDA NONATA CARDOSO ARAUJO SPINDOLA</td><td>50475169387</td><td>0000000292</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>168,55</td><td>RAIMUNDA NONATA LINHARES MENDES</td><td>00959109307</td><td>0000003428</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>197,90</td><td>RAIMUNDO GARRETO LOPES</td><td>22555200363</td><td>0000000123</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>198,80</td><td>RAIMUNDO NONATO FERREIRA DA SILVA</td><td>06397263304</td><td>0000000133</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>131,95</td><td>RANIELY SILVA LIMA</td><td>00599704306</td><td>0000004445</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>151,43</td><td>RAQUEL DE OLIVEIRA ROCHA ABREU</td><td>02037510357</td><td>0000009627</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>197,91</td><td>RAYLSON NUNES DE CASTRO</td><td>60419737340</td><td>0000009078</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>247,77</td><td>ROSA CRISTIANE ALVES MONTELES</td><td>84934069372</td><td>0000004079</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>203,18</td><td>ROSIEL PORFIRIO SOUSA</td><td>86825828304</td><td>0000004265</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>161,85</td><td>RUANITO DA LUZ GARCEZ</td><td>92255434334</td><td>0000009723</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>157,35</td><td>SERGIO LOPES DOS SANTOS</td><td>01551691302</td><td>0000004493</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>161,21</td><td>SERGIO RODRIGUES DE SOUSA</td><td>02673593306</td><td>0000009725</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>623,69</td><td>SILVANA DA SILVA CARDOSO</td><td>76833550387</td><td>0000004584</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>185,33</td><td>SILVANA FONTINELES GOMES</td><td>37596888372</td><td>0000003275</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>484,45</td><td>SIMONE MARIA RODRIGUES REGO</td><td>48374083387</td><td>0000001886</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>361,72</td><td>SONIA MARIA VIANA DA COSTA</td><td>50548182353</td><td>0000004082</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>180,39</td><td>SUELI DOS SANTOS BEZERRA</td><td>00957509324</td><td>0000005054</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>440,51</td><td>TATIANA BASTOS DOS REIS MACHADO</td><td>02010753348</td><td>0000004284</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>146,81</td><td>TERESINHA DE ARAUJO LOBO SILVA</td><td>53101359368</td><td>0000004979</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>402,57</td><td>TEREZINHA BENTO DE ARAUJO</td><td>00969118325</td><td>0000005230</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>279,55</td><td>TEREZINHA DA SILVA DE SOUSA</td><td>05414235767</td><td>0000005231</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>326,88</td><td>VALDERICE DA SILVA</td><td>02040130381</td><td>0000004143</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>278,20</td><td>VALDIVIA MARIA FERREIRA ARAUJO</td><td>46064079304</td><td>0000005015</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>564,52</td><td>VANDERLEIA COSTA DE OLIVEIRA</td><td>69037876315</td><td>0000004016</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>156,63</td><td>VENILSA PEREIRA DOS RAMOS</td><td>74513605391</td><td>0000000701</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>198,81</td><td>VILLENE ALMEIDA SILVA</td><td>02200051336</td><td>0000005233</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>161,53</td><td>WALDILENE SILVA DO NASCIMENTO</td><td>37545493320</td><td>0000004501</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>276,73</td><td>WERDEM KEYLE DUARTE MENESES</td><td>01025816307</td><td>0000004517</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>268,42</td><td>WILSON DE SOUSA LOPES</td><td>87161788315</td><td>0000001442</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr><tr>
+		<td>CREDCESTA</td><td>58</td><td>124,84</td><td>ZELMA DUTRA</td><td>70692165304</td><td>0000000658</td><td>1177</td><td>40</td><td>1177</td><td>10</td><td>2023</td><td>2</td><td>Contra Cheque Divergência</td>
+	</tr>
+</table>
